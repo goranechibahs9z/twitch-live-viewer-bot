@@ -1,0 +1,12 @@
+{
+  "name": "twitch-live-viewer-bot-browser",
+  "version": "1.0.0",
+  "description": "twitch live viewer bot",
+  "main": "src/runner.js",
+  "scripts": {
+    "start": "node scripts/start.js"
+  },
+  "dependencies": {
+    "playwright": "^1.42.0"
+  }
+}
